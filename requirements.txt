@@ -1,0 +1,7 @@
+torch
+transformers
+accelerate
+huggingface_hub
+gradio
+llama-cpp-python
+gitpython
